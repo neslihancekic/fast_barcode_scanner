@@ -1,6 +1,6 @@
 name: fast_barcode_scanner
 description: A fast barcode scanner using MLKit on Android and AVFoundation on iOS.
-version: 2.0.0-dev.5
+version: 2.0.0-dev.6
 homepage: https://github.com/jhoogstraat/fast_barcode_scanner
 repository: https://github.com/jhoogstraat/fast_barcode_scanner
 
@@ -15,7 +15,7 @@ dependencies:
     hosted:
       name: fast_barcode_scanner_platform_interface
       url: http://nexus.axlehire.com:7777
-    version: ^2.0.0-dev.3
+    version: ^2.0.0-dev.4
 
 dev_dependencies:
   flutter_test:
